@@ -1,0 +1,1 @@
+This error occurs when using the Expo CLI and is related to issues with the metro bundler. It often manifests as a cryptic error message, not directly pointing to the problem's source within your code. The metro bundler may fail to correctly resolve dependencies or encounter problems with the project's structure, leading to this error.
