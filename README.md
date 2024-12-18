@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error encountered when using the Expo CLI. The error stems from issues within the Metro bundler, often presenting as an unclear error message. The `bug.js` file shows example code that might trigger this error, while `bugSolution.js` provides possible solutions and workarounds.
